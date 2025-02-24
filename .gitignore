@@ -1,5 +1,2 @@
-__pycache__
-.env
-.learn
-data
-models
+src/models/best_model.keras
+src/models/cats_dogs_classifier_vgg16.h5
